@@ -1,12 +1,12 @@
- UFC Stance Intelligence: From Personal Question to Practical Tool
+ ### UFC Stance Intelligence: From Personal Question to Practical Tool
 
-A two-part data journey — from "Am I at an advantage?" to "How can I help others find their fighting style?"**
+### A two-part data journey — from "Am I at an advantage?" to "How can I help others find their fighting style?"**
 <img width="965" height="766" alt="image" src="https://github.com/user-attachments/assets/c5e37aca-4926-49c6-b3d9-3baa8d973a35" />
 
 Tableau: https://public.tableau.com/app/profile/brian.ma5935/viz/UFCRECOMENDATIONENGINE/Dashboard1 
 ---
 
- The Story Behind This Project
+ ### The Story Behind This Project
 
 I am right-handed. But I fight southpaw.**
 
@@ -23,7 +23,7 @@ This project evolved into **two parts**:
 
 ---
 
-## 🔬 PART 1: Stance & Hand Dominance Analysis
+##  PART 1: Stance & Hand Dominance Analysis
 
 ### What I Analyzed
 
@@ -35,7 +35,7 @@ This project evolved into **two parts**:
 
 | Finding | Result |
 |---|---|
-| **Southpaw overall** | +5.2% higher win rate (p < 0.05) ✅ statistically significant |
+| **Southpaw overall** | +5.2% higher win rate (p < 0.05)  statistically significant |
 | **My group (Right-handed Southpaw)** | 77.92% win rate — comparable to average |
 | **vs Orthodox Right-handed** | -0.28% (no disadvantage) |
 | **vs Traditional Southpaw** | +0.79% (slightly better) |
@@ -57,14 +57,14 @@ This project evolved into **two parts**:
 
 ---
 
-## 🎯 PART 2: Fighter Matchmaker Tool
+##  PART 2: Fighter Matchmaker Tool
 
 ### The Question That Started This
 
 After Part 1, I realized: *I wasn't the only one with this question.*
 
 Every fighter, whether beginner or pro, wonders:
-👉 *"Which UFC fighter should I study to improve MY style?"*
+ *"Which UFC fighter should I study to improve MY style?"*
 
 So I built a tool that answers exactly that.
 
@@ -74,16 +74,16 @@ Users input **3 things** about themselves:
 
 | Input | Options |
 |---|---|
-| 🥊 Stance | Orthodox / Southpaw |
-| ✋ Handedness | Right-handed / Left-handed |
-| ⚖️ Weight Class | Heavyweight → Flyweight (8 classes) |
+|  Stance | Orthodox / Southpaw |
+|  Handedness | Right-handed / Left-handed |
+|  Weight Class | Heavyweight → Flyweight (8 classes) |
 
 **↓**
 
 The dashboard returns:
-- 🏆 **Top 5 matching fighters**
-- 📊 **Match Score** (0-100)
-- 💡 **Personalized learning tips** for each fighter
+-  **Top 5 matching fighters**
+-  **Match Score** (0-100)
+-  **Personalized learning tips** for each fighter
 
 ### Example Output
 
@@ -103,7 +103,7 @@ The dashboard returns:
 
 ---
 
-## 🗄️ Database Schema (Part 2)
+##  Database Schema (Part 2)
 
 ### Stored Function: `match_fighters()`
 
