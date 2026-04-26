@@ -2,6 +2,8 @@
 
 ### A two-part data journey — from "Am I at an advantage?" to "How can I help others find their fighting style?"**
 <img width="965" height="766" alt="image" src="https://github.com/user-attachments/assets/c5e37aca-4926-49c6-b3d9-3baa8d973a35" />
+<img width="1511" height="954" alt="image" src="https://github.com/user-attachments/assets/32615563-56ae-4117-9f90-18ccd87010fc" />
+
 
 Tableau: https://public.tableau.com/app/profile/brian.ma5935/viz/UFCRECOMENDATIONENGINE/Dashboard1 
 ---
