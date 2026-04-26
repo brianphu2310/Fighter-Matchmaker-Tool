@@ -1,14 +1,14 @@
-# 🥊 UFC Stance Intelligence: From Personal Question to Practical Tool
+ UFC Stance Intelligence: From Personal Question to Practical Tool
 
-**A two-part data journey — from "Am I at an advantage?" to "How can I help others find their fighting style?"**
+A two-part data journey — from "Am I at an advantage?" to "How can I help others find their fighting style?"**
 <img width="965" height="766" alt="image" src="https://github.com/user-attachments/assets/c5e37aca-4926-49c6-b3d9-3baa8d973a35" />
 
 Tableau: https://public.tableau.com/app/profile/brian.ma5935/viz/UFCRECOMENDATIONENGINE/Dashboard1 
 ---
 
-## 📌 The Story Behind This Project
+ The Story Behind This Project
 
-**I am right-handed. But I fight southpaw.**
+I am right-handed. But I fight southpaw.**
 
 This is unusual. Only about 5% of UFC fighters share my stance-hand combination. For years, coaches told me: *"Southpaw is an advantage."* But I never knew if that was actually true — or just a myth.
 
